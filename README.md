@@ -43,14 +43,3 @@ If you use this dataset for your research, please cite the source as follows:
     period={March-August 2024}
 }
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please open an issue in this repository or reach out to the dataset maintainers at support@example.com.
-
----
-
